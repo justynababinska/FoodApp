@@ -1,0 +1,26 @@
+.home-jumbo {
+	background: url('../img/top.png') center;
+}
+
+.media-body {
+	margin-left: 30px;
+}
+
+.media-body {
+	margin-bottom: 10px;
+}
+
+.main {
+	background-image: url('../img/back.jpg');
+	background-position: center;
+}
+
+.container {
+	background-color:rgba(0, 0, 0, 0.2);
+	margin-right:auto;
+}
+
+.row
+{
+    padding-top: 30px; 
+}
