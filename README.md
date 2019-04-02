@@ -1,5 +1,5 @@
 # VideoRentalShop
-> An internet service to order food, created with Spring Boot, Spring MVC, Spring Data, Tomcat, Thymeleaf.
+> An internet service to order food, created with Spring Boot, Spring MVC, Spring Data, Tomcat, Thymeleaf, Bootstrap.
 
 ## Table of contents
 * [General info](#general-info)
@@ -41,6 +41,8 @@ After clicking the button under the form, the order is saved to the database wit
 * Spring Boot 2.1.2
 * Spring Data
 * Spring MVC
+* Thymeleaf
+* Bootstrap
 
 ## Status
 Project is: _finished_
