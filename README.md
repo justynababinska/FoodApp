@@ -1,5 +1,5 @@
 # VideoRentalShop
-> An internet service to order food, created with Spring Boot, Spring MVC, Spring Data, Tomcat, Thymeleaf, Bootstrap.
+> An internet service to order food, created with Spring Boot, Spring MVC, Spring Data, Thymeleaf, Bootstrap.
 
 ## Table of contents
 * [General info](#general-info)
