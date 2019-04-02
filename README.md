@@ -1,4 +1,4 @@
-# VideoRentalShop
+# FoodApp
 > An internet service to order food, created with Spring Boot, Spring MVC, Spring Data, Thymeleaf, Bootstrap.
 
 ## Table of contents
